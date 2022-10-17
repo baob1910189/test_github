@@ -1,1 +1,1 @@
-console.log('aabc conflict abc');
+console.log('aabc conflict');
